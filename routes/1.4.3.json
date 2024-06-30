@@ -15,7 +15,11 @@
       "yaw": 0.0,
       "pitch": 0.0,
       "independent": false,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "1": {
       "x": 107.5,
@@ -28,7 +32,11 @@
       "yaw": 0.0,
       "pitch": 0.0,
       "independent": false,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "2": {
       "x": 95.5,
@@ -41,7 +49,11 @@
       "yaw": 0.0,
       "pitch": 0.0,
       "independent": false,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "3": {
       "x": 106.5,
@@ -54,7 +66,11 @@
       "yaw": 71.32149505615234,
       "pitch": 90.0,
       "independent": true,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "4": {
       "x": 105.22904888875807,
@@ -67,7 +83,11 @@
       "yaw": 0.0,
       "pitch": 0.0,
       "independent": true,
-      "routeItem": "BONZO"
+      "routeItem": "BONZO",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "5": {
       "x": 103.5,
@@ -80,7 +100,11 @@
       "yaw": 430.4896545410156,
       "pitch": -7.126211643218994,
       "independent": true,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "6": {
       "x": 93.5,
@@ -93,7 +117,11 @@
       "yaw": 0.0,
       "pitch": 0.0,
       "independent": false,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "7": {
       "x": 93.5,
@@ -106,7 +134,11 @@
       "yaw": 181.00103759765625,
       "pitch": -1.3635045289993286,
       "independent": true,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "8": {
       "x": 91.5,
@@ -119,7 +151,11 @@
       "yaw": 0.0,
       "pitch": 0.0,
       "independent": false,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     },
     "9": {
       "x": 91.5,
@@ -132,7 +168,11 @@
       "yaw": 361.5088806152344,
       "pitch": -1.468277096748352,
       "independent": true,
-      "routeItem": "NOTHING"
+      "routeItem": "NOTHING",
+      "edgeJump": false,
+      "bonzo": false,
+      "wait": false,
+      "time": 0.0
     }
   }
 }
